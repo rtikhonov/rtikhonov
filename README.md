@@ -13,7 +13,6 @@
 
 <br/>
 
-## About
 
 > Engineer with **5+ years** across semiconductor reliability, superconducting quantum circuits, and manufacturing data analytics. I build **Python tooling** that turns raw fab data into decisions — wafer-level test analysis, yield diagnostics, process-control dashboards, and engineering apps for SoC development workflows.
 
@@ -113,7 +112,7 @@ Reliability engineering for semiconductor ICs — UHF RFID with CBRAM memory on 
 
 ## Education
 
-**Moscow Institute of Electronic Technology (MIET)** &nbsp;—&nbsp; Electronics and Nanoelectronics &nbsp;·&nbsp; *2012 — 2016*
+**Moscow Institute of Electronic Technology (MIET)** &nbsp;—&nbsp; Electronics and Nanoelectronics &nbsp;·&nbsp; *2016*
 
 <br/>
 
