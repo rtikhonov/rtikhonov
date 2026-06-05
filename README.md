@@ -113,7 +113,7 @@ Reliability engineering for semiconductor ICs — UHF RFID with CBRAM memory on 
 
 ## Education
 
-**Moscow Institute of Electronic Technology (MIET)** &nbsp;—&nbsp; Electronics and Nanoelectronics &nbsp;·&nbsp; *2016*
+**Moscow Institute of Electronic Technology (MIET)** &nbsp;—&nbsp; Electronics and Nanoelectronics &nbsp;·&nbsp; *2012 — 2016*
 
 <br/>
 
@@ -122,21 +122,3 @@ Reliability engineering for semiconductor ICs — UHF RFID with CBRAM memory on 
 > *Flip-Chip Integration of the Superconducting Quantum-Classical Circuits: Coupling Types*
 
 <br/>
-
-## GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rtikhonov&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtikhonov&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtikhonov&theme=midnight-purple&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak"/>
-</p>
-
-<br/>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
-</p>
