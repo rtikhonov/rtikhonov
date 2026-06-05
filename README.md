@@ -52,7 +52,7 @@ Reliability engineering for semiconductor ICs — UHF RFID with CBRAM memory on 
 ## Education
 
 **Moscow Institute of Electronic Technology (MIET)** — Electronics and Nanoelectronics
-*2012 — 2016*
+*2016*
 
 ## Publications
 
