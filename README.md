@@ -12,11 +12,11 @@ Engineer with 5+ years across semiconductor reliability, superconducting quantum
 
 ## Tech Stack
 
-- **Languages:** Python, SQL, VBA
+- **Languages:** Python, SQL
 - **Data & Analysis:** pandas, NumPy, SciPy, JMP
 - **Visualization:** Matplotlib, Plotly, Seaborn
 - **GUI / Apps:** PyQt6
-- **EDA / Simulation:** Keysight ADS, Ansys HFSS
+- **EDA / Simulation:** Keysight ADS
 - **Domain:** WAT / PCM, yield analysis, reliability testing, JEDEC packaging, flip-chip integration
 
 ## Experience
