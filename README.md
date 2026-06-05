@@ -1,14 +1,3 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Roman%20Tikhonov&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Semiconductor%20%26%20Quantum&descSize=18&descAlignY=62&animation=fadeIn" alt="header"/>
-</p>
-
-<!-- Typing tagline -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/roman-tikhonov-095895127">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=720&lines=Wafer-level+test+analysis+%E2%80%A2+yield+diagnostics;Python+tooling+for+semiconductor+manufacturing;Superconducting+quantum+circuits+%26+flip-chip+integration" alt="typing"/>
-  </a>
-</p>
 
 <!-- Contact badges -->
 <p align="center">
