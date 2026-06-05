@@ -7,7 +7,6 @@
   <a href="mailto:romatihh@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Russia-2C5364?style=for-the-badge" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=rtikhonov&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
